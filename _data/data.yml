@@ -8,7 +8,7 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
+  name: Jose Garcia
   tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -18,14 +18,14 @@ sidebar:
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://jose1423-g.github.io/ # Include the full website URL, including "http://" or "https://".
-  linkedin: jose garcia
+  linkedin: alandoe
   xing: alandoe
-  github: https://github.com/jose1423-g
-  # telegram: # add your nickname without '@' sign
+  github: jekyll
+  telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@josegarcia1423'
+  twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,7 +38,7 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Basico
+      level: Native
 
     - idiom: French
       level: Professional
@@ -49,67 +49,82 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Desarrollo de proyectos personales
+    - item: Climbing
       link:
 
 
-    - item: Futbol
+    - item: Snowboarding
       link:
 
 
-    - item: Skatebording
+    - item: Cooking
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Ingeniero en Sistemas especializado en el desarrollo web, con experiencia en la creación de soluciones 
-    digitales eficientes y escalables. Enfocado en diseñar interfaces intuitivas y desarrollar sistemas que
-    optimicen la gestión de datos y mejoren la experiencia del usuario. Destaco por mi capacidad para resolver 
-    problemas, adaptarme a nuevos entornos tecnológicos y trabajar de forma colaborativa para alcanzar los 
-    objetivos del proyecto. Comprometido con la mejora continua y el aprendizaje de nuevas herramientas para ofrecer
-    soluciones innovadoras y de alto impacto.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
   title: Education
   info:
-  - degree: Ingeniería en Sistemas
-    university: Instituto Tecnológico de Cancún
-    time: 2019 - 2025
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
     details: |
-         Formación enfocada en el desarrollo de software, gestión de bases de datos y resolución de problemas tecnológicos.
-        - Proyectos académicos enfocados en el desarrollo web y sistemas escalables.
-        - Experiencia en trabajo colaborativo y metodologías ágiles.        
-  - degree: Educación Media Superior
-    university: CETIS 41
-    time: 2015 - 2018
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
     details: |
-      Formación técnica con énfasis en fundamentos de programación, redes y mantenimiento de equipos de cómputo.
-        - Participación en proyectos técnicos y actividades extracurriculares.
-        - Desarrollo de habilidades analíticas y de resolución de problemas.
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 experiences:
   title: Experiences
   info:
-  - role: Desarrollador web
-    time: 2023 - 2024
-    company: Doxasystem
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
     details: |
-      Desarrollador web encargado de desarrollar nuevos módulos, actualizar módulos existentes y crear nuevas aplicaciones web.  
-      - Implementé funcionalidades intuitivas y eficientes para mejorar el rendimiento del sistema.  
-      - Actualicé módulos existentes, optimizando el código y corrigiendo errores para mejorar la estabilidad del sistema.  
-      - Desarrollé aplicaciones web desde cero, abordando el ciclo completo de desarrollo, desde el análisis de requisitos hasta el despliegue en producción.  
-      - Colaboré con otros equipos para garantizar la integración adecuada de nuevas funcionalidades y mejorar la experiencia del usuario. 
-  - role: Soporte y mantenimiento
-    time: 2021 - 2022
-    company: Hotel shops
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
     details: |
-      Técnico en soporte y mantenimiento encargado de garantizar el correcto funcionamiento de los equipos y sistemas tecnológicos.  
-      - Realicé la instalación, configuración y conexión de cámaras de seguridad, asegurando su correcto funcionamiento y óptima cobertura.  
-      - Ejecuté mantenimientos preventivos y correctivos en equipos de cómputo para prevenir fallos y optimizar el rendimiento del hardware y software.  
-      - Instalé y configuré aplicaciones según los requerimientos del usuario, asegurando compatibilidad y correcto desempeño.  
-      - Diagnostiqué y resolví fallos técnicos, brindando soporte eficiente para minimizar tiempos de inactividad.  
-      - Documenté cada intervención realizada para mantener un historial técnico actualizado.  
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
@@ -249,23 +264,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Laravel
-    level: 80%
+  - name: Python & Django
+    level: 98%
 
-  - name: Javascript & vue & Jquery
-    level: 80%
+  - name: Javascript & jQuery
+    level: 98%
 
-  - name: Myslq & SqlServer & Postgresql
-    level: 80%
+  - name: Angular
+    level: 98%
 
   - name: HTML5 & CSS
     level: 95%
 
-  - name: Tailwindcss & bootstrap
+  - name: Ruby on Rails
     level: 85%
 
-  - name: git
-    level: 80%
+  - name: Sketch & Photoshop
+    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
