@@ -20,12 +20,12 @@ sidebar:
   website: https://jose1423-g.github.io/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
-  github: jekyll
+  github: https://github.com/jose1423-g
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  twitter: '@josegarcia1423'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,7 +38,7 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
+      level: Basico
 
     - idiom: French
       level: Professional
@@ -64,38 +64,29 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Ingeniero en Sistemas especializado en el desarrollo web, con experiencia en la creación de soluciones
+    digitales eficientes y escalables. Enfocado en diseñar interfaces intuitivas y desarrollar sistemas que
+    optimicen la gestión de datos y mejoren la experiencia del usuario. Destaco por mi capacidad para resolver
+    problemas, adaptarme a nuevos entornos tecnológicos y trabajar de forma colaborativa para alcanzar los
+    objetivos del proyecto. Comprometido con la mejora continua y el aprendizaje de nuevas herramientas para ofrecer
+    soluciones innovadoras y de alto impacto.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ingeniería en Sistemas
+    university: Instituto Tecnológico de Cancún
+    time: 2019 - 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Formación enfocada en el desarrollo de software, gestión de bases de datos y resolución de problemas tecnológicos.
+      Proyectos académicos enfocados en el desarrollo web y sistemas escalables.
+      Experiencia en trabajo colaborativo y metodologías ágiles.
+  - degree: Educación Media Superior
+    university: CETIS 41
+    time: 2015 - 2018
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      Formación técnica con énfasis en fundamentos de programación, redes y mantenimiento de equipos de cómputo.
+      Participación en proyectos técnicos y actividades extracurriculares.
+      Desarrollo de habilidades analíticas y de resolución de problemas.
 experiences:
   title: Experiences
   info:
