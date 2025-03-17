@@ -40,11 +40,11 @@ sidebar:
     - idiom: English
       level: Basico
 
-    # - idiom: French
-    #   level: Professional
+    - idiom: French
+      level: Professional
 
-    # - idiom: Spanish
-    #   level: Professional
+    - idiom: Spanish
+      level: Professional
 
   interests:
     title: Interests
