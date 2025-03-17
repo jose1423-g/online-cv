@@ -90,32 +90,25 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Desarrollador web
+    time: 2013 - 2024
+    company: Doxasystem
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Desarrollador web encargado de desarrollar nuevos módulos, actualizar módulos existentes y crear nuevas aplicaciones web.
+      Implementé funcionalidades intuitivas y eficientes para mejorar el rendimiento del sistema.
+      Actualicé módulos existentes, optimizando el código y corrigiendo errores para mejorar la estabilidad del sistema.
+      Desarrollé aplicaciones web desde cero, abordando el ciclo completo de desarrollo, desde el análisis de requisitos hasta el despliegue en producción.
+      Colaboré con otros equipos para garantizar la integración adecuada de nuevas funcionalidades y mejorar la experiencia del usuario.
+  - role: Soporte y mantenimiento
+    time: 2021 - 2022
+    company: Hotel shops
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Técnico en soporte y mantenimiento encargado de garantizar el correcto funcionamiento de los equipos y sistemas tecnológicos.
+      Realicé la instalación, configuración y conexión de cámaras de seguridad, asegurando su correcto funcionamiento y óptima cobertura.
+      Ejecuté mantenimientos preventivos y correctivos en equipos de cómputo para prevenir fallos y optimizar el rendimiento del hardware y software.
+      Instalé y configuré aplicaciones según los requerimientos del usuario, asegurando compatibilidad y correcto desempeño.
+      Diagnostiqué y resolví fallos técnicos, brindando soporte eficiente para minimizar tiempos de inactividad.
+        Documenté cada intervención realizada para mantener un historial técnico actualizado.
   - role: UI Developer
     time: 2012 - 2014
     company: Amazon, London
